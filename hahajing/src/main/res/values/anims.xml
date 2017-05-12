@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <anim name="fade_in">res/anim/fade_in.xml</anim>
+    <anim name="fade_out">res/anim/fade_out.xml</anim>
+    <anim name="frag_in">res/anim/frag_in.xml</anim>
+    <anim name="frag_out">res/anim/frag_out.xml</anim>
+    <anim name="frag_pop_in">res/anim/frag_pop_in.xml</anim>
+    <anim name="frag_pop_out">res/anim/frag_pop_out.xml</anim>
+    <anim name="menu_in">res/anim/menu_in.xml</anim>
+    <anim name="menu_in">res/anim-land/menu_in.xml</anim>
+    <anim name="menu_in_left">res/anim/menu_in_left.xml</anim>
+    <anim name="menu_out">res/anim/menu_out.xml</anim>
+    <anim name="menu_out">res/anim-land/menu_out.xml</anim>
+    <anim name="menu_out_left">res/anim/menu_out_left.xml</anim>
+    <anim name="mode_hide">res/anim/mode_hide.xml</anim>
+    <anim name="mode_hide">res/anim-land/mode_hide.xml</anim>
+    <anim name="mode_hide_left">res/anim/mode_hide_left.xml</anim>
+    <anim name="mode_show">res/anim/mode_show.xml</anim>
+    <anim name="mode_show">res/anim-land/mode_show.xml</anim>
+    <anim name="mode_show_left">res/anim/mode_show_left.xml</anim>
+    <anim name="photo_fade_in">res/anim/photo_fade_in.xml</anim>
+    <anim name="photo_fade_out">res/anim/photo_fade_out.xml</anim>
+</resources>

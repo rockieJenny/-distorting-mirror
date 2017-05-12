@@ -1,0 +1,16 @@
+package rsg.mailchimp.api.campaigns;
+
+import com.inmobi.commons.analytics.db.AnalyticsSQLiteHelper;
+import java.util.Map;
+import rsg.mailchimp.api.MailChimpApiException;
+import rsg.mailchimp.api.RPCStructConverter;
+
+public class CampaignAdvice implements RPCStructConverter {
+    public String message;
+    public String type;
+
+    public void populateFromRPCStruct(String key, Map struct) throws MailChimpApiException {
+        this.message = (String) struct.get("msg");
+        this.type = (String) struct.get(AnalyticsSQLiteHelper.EVENT_LIST_TYPE);
+    }
+}
