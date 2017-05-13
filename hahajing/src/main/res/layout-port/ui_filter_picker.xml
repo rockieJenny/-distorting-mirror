@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<merge xmlns:android="http://schemas.android.com/apk/res/android">
-    <it.sephiroth.android.library.widget.HListView android:id="@+id/filter_picker_horizontal" style="@style/FilterPicker" />
-</merge>

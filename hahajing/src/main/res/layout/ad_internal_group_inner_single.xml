@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:id="@+id/ad1" android:background="@drawable/secondary_button_selector" android:padding="@dimen/setting_popup_button_padding" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1.0">
-    <ImageView android:id="@id/house_ad_image" android:focusable="false" android:clickable="false" android:layout_width="match_parent" android:layout_height="UNKNOWN_DATA_0x1" android:layout_weight="1.0" />
-    <TextView android:textColor="@color/text_color" android:gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" android:id="@id/ad_message" android:focusable="false" android:clickable="false" android:layout_width="match_parent" android:layout_height="wrap_content" />
-</LinearLayout>

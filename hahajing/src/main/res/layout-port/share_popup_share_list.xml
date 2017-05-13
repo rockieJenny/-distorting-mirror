@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<it.sephiroth.android.library.widget.HListView xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/share_list_horizontal" style="@style/SharePopup_ShareList" />

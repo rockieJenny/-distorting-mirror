@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" android:background="@drawable/list_view_background" android:padding="@dimen/background_border_size" android:layout_width="wrap_content" android:layout_height="wrap_content">
-    <ImageView android:id="@+id/filter" style="@style/FilterPicker_Item" />
-    <ImageView android:id="@+id/reload" android:layout_width="UNKNOWN_DATA_0x3001" android:layout_height="UNKNOWN_DATA_0x3001" android:src="@drawable/ic_action_reload" android:layout_centerInParent="true" />
-    <TextView android:textColor="#fff" android:gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" android:id="@+id/filter_name" android:background="#33000000" android:layout_width="UNKNOWN_DATA_0x7f090025" android:layout_height="wrap_content" android:layout_marginBottom="25dp" android:layout_alignLeft="@+id/filter" android:layout_alignRight="@+id/filter" android:layout_alignParentBottom="true" />
-</RelativeLayout>
